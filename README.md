@@ -11,5 +11,6 @@ To use this project, follow these steps below:
 
 Running on iOS
 `$ npx react-native run-ios`
+
 Running on Android
 `$ npx react-native run-android`
